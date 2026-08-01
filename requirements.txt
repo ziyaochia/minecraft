@@ -1,0 +1,6 @@
+glfw==2.10.2
+moderngl==5.12.0
+numpy==2.5.1
+pillow==12.3.0
+rendercanvas==2.7.2
+wgpu==0.32.0
